@@ -35,6 +35,8 @@ main{
     margin: 25px 50px;
     background-color: white;
     padding: 25px 50px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 .task-button{
@@ -59,6 +61,10 @@ main{
 
 .orange{
     background-color:hsl(33.61deg 88.02% 57.45%) ; 
+ }
+
+ .gold{
+    background-color:hsl(69.2deg 68.2% 46.86%) ;
  }
  
 
