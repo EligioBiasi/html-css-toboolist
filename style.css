@@ -3,6 +3,15 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: lightgrey;
+}
+
+header{
+    background-color: white;
+}
+
 #logo{
     width: 50px;
     height: 50px;
@@ -15,3 +24,22 @@ h1{
     display: inline;
     font-size: 25px;
 }
+
+main{
+    margin: 25px 50px;
+    background-color: white;
+    padding: 25px 50px;
+}
+
+.task-button{
+    height: 25px;
+    width: 100px;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+
+.blue{
+    background-color: hsl(202.6deg 79.38% 61.96%);
+}
+
