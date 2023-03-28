@@ -49,6 +49,19 @@ main{
     background-color: hsl(202.6deg 79.38% 61.96%);
 }
 
+.violet{
+    background-color: hsl(328.21deg 60% 61.76%);
+}
+
+.green{
+   background-color:hsl(165deg 65.12% 43.87%) ; 
+}
+
+.orange{
+    background-color:hsl(33.61deg 88.02% 57.45%) ; 
+ }
+ 
+
 .line-height{
     line-height: 20px;
 }
@@ -66,6 +79,18 @@ main{
     border: 1px solid hsl(165.33deg 41.67% 57.65%);
     text-align: center;
     vertical-align: middle;
+}
+
+.not-done{
+    display: inline-block;
+    color: hsl(3.75deg 80.81% 61.18%);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid hsl(3.75deg 80.81% 61.18%);
+    text-align: center;
+    vertical-align: middle;
+    font-size: smaller;
 }
 
 
