@@ -6,6 +6,7 @@
 
 body{
     background-color: lightgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header{
@@ -20,7 +21,6 @@ header{
 
 h1{
     color: #001632;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: inline;
     font-size: 25px;
 }
@@ -36,7 +36,7 @@ main{
     width: 100px;
     border-radius: 5px;
     display: inline-block;
-    
+    border: 1px solid grey;
 }
 
 .blue{
